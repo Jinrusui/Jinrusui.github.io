@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Bio</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+    </style>
+</head>
+<body>
+    <h1>Hi, I'm Jinru Sui (眭劲儒)</h1>
+    <p>Welcome to my personal bio website.</p>
+    <p>I am an (AI) master's student studying at University of Edinburgh, interested in Multimodal LLM, World Models, LLM Reasoning, Vision Reasoning, AI application in Gaming. .</p>
+    <p>Connect with me on <a href="https://github.com/Jinrusui/Jinrusui.github.io">GitHub</a>.</p>
+</body>
+</html>
